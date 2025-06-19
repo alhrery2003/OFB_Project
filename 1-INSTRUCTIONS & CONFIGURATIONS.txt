@@ -1,0 +1,15 @@
+1-after extracting the (zip/rar) project folder and making sure that XAMPP is installed
+2-copy and paste the "OnlineFlightBooking-PHP" folder into the following bath : "C:\xampp\htdocs"
+
+3-open XAMPP control panel and launch both Apache and MySQL
+4-go to your browser and type localhost
+5-go to phpmyadmin
+6-Go to Databases then Create a new database
+
+7-Database Name : ofbphp
+  Database Type : select "Collation" from the dropdown list
+
+8-after creating the database go to Import
+9-press Chose File and then chose the database file in the DATABASE folder associated with the project, and then click import
+10-Now you should have the database imported and ready
+11-Now you can type localhost/OnlineFlightBooking-PHP and the project should be ready to go 
